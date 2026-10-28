@@ -1,0 +1,24 @@
+::: {.author-profile}
+
+![Official AIM logo: AI & Mechanics](https://miai-cluster.univ-grenoble-alpes.fr/medias/photo/logo-aim_1755785337279-jpg?ID_FICHE=1566303){.author-avatar .aim-official-logo}
+
+### AIM Research Chair {.author-name}
+
+::: {.author-bio}
+Artificial Intelligence and Mechanics for scale-bridging in complex materials
+:::
+
+::: {.author-links #author-links}
+
+[MIAI Cluster AI Chair](https://miai-cluster.univ-grenoble-alpes.fr/){.author-link .author-affiliation}
+
+[Inria · Université Grenoble Alpes](https://www.inria.fr/en/inria-center-universite-grenoble-alpes){.author-link .author-affiliation}
+
+[June 2025 – September 2029](https://radar.inria.fr/report/2025/tripop/index.html){.author-link .author-date}
+
+[Contact the coordinators](mailto:filippo.masi@inria.fr?cc=vincent.acary%40inria.fr){.author-link .author-email}
+
+[Original AIM project page](https://project.inria.fr/aimechanics/){.author-link .author-external}
+
+:::
+:::

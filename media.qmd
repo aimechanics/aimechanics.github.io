@@ -1,0 +1,41 @@
+---
+title: "Media | AIM"
+title-block-style: none
+toc: false
+---
+
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _project_profile.qmd >}}
+:::
+
+::: {.academic-main}
+<p class="project-kicker">AIM research chair</p>
+
+# Media & presentations
+
+<p class="project-lead">Official chair visuals and selected presentations, presented within the same academic layout as the rest of the AIM website.</p>
+
+## AIM at MIAI Days 2025
+
+A presentation of the AIM chair by Filippo Masi was included in **MIAI Days on 19 June 2025**. The recording below begins at the AIM presentation, as linked in [Inria's TRIPOP 2025 report](https://radar.inria.fr/report/2025/tripop/index.html).
+
+<div class="media-video">
+<iframe src="https://www.youtube-nocookie.com/embed/zSDhmIGKjAk?start=1214" title="MIAI Days 2025: presentation of the AIM research chair" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<p class="media-caption">MIAI Days, 19 June 2025 · <a href="https://www.youtube.com/watch?v=zSDhmIGKjAk&t=1214s" target="_blank" rel="noopener noreferrer">Watch the presentation on YouTube ↗</a></p>
+
+## Official AIM chair visual
+
+<figure class="project-figure official-figure">
+<a href="https://miai-cluster.univ-grenoble-alpes.fr/en/projects/chaires/aim-ai-and-mechanics-for-scale-bridging-in-complex-materials--1834351.kjsp?RH=1781609361883" target="_blank" rel="noopener noreferrer"><img src="https://miai-cluster.univ-grenoble-alpes.fr/medias/photo/aim_1755785671736-png?ID_FICHE=1566303" alt="Official AIM chair presentation visual with participating-institution logos and an image of a granular mountain slope" loading="lazy" /></a>
+<figcaption>Official AIM chair presentation and partner identities. Source: <a href="https://miai-cluster.univ-grenoble-alpes.fr/en/projects/chaires/aim-ai-and-mechanics-for-scale-bridging-in-complex-materials--1834351.kjsp?RH=1781609361883" target="_blank" rel="noopener noreferrer">MIAI Cluster / Université Grenoble Alpes</a>. Displayed without modification (CC BY-NC-ND 4.0).</figcaption>
+</figure>
+
+## More project material
+
+The <a href="https://project.inria.fr/aimechanics/">original AIM website at Inria</a> remains the reference for existing project videos and multimedia materials. Additional recordings can be embedded here without altering the Quarto website template.
+
+::: 
+::::

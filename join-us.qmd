@@ -1,0 +1,33 @@
+---
+title: "Join us | AIM"
+title-block-style: none
+toc: false
+---
+
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _project_profile.qmd >}}
+:::
+
+::: {.academic-main}
+<p class="project-kicker">Research opportunities</p>
+
+# Join us
+
+<p class="project-lead">Interested in scientific machine learning, granular materials, multiscale modelling or experimental mechanics?</p>
+
+## Working with AIM
+
+AIM offers a collaborative research setting at the interface of AI, applied mathematics and mechanics, with participating groups based in Grenoble, France. The research combines theory, simulations and experiments and is oriented toward physically grounded and reliable modelling.
+
+Prospective PhD students, postdoctoral researchers and scientific collaborators can contact the principal investigators to discuss potential opportunities and project fit.
+
+<div class="project-notice"><p><strong>Vacancy status:</strong> No currently open position is confirmed on this site. Please refer to the <a href="https://project.inria.fr/aimechanics/join-us/">official AIM opportunities page</a> and <a href="https://jobs.inria.fr/">Inria recruitment portal</a> for up-to-date announcements.</p></div>
+
+## Enquiries
+
+Please describe your background and research interests, and include a CV or a link to a professional profile when contacting the project.
+
+<div class="action-links"><a href="mailto:filippo.masi@inria.fr">Email Filippo Masi ↗</a><a href="mailto:vincent.acary@inria.fr">Email Vincent Acary ↗</a></div>
+:::
+::::

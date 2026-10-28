@@ -1,0 +1,44 @@
+---
+title: "Team | AIM"
+title-block-style: none
+toc: false
+---
+
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _project_profile.qmd >}}
+:::
+
+::: {.academic-main}
+<p class="project-kicker">Research network</p>
+
+# Team & partners
+
+<p class="project-lead">AIM is a collaborative research chair involving four teams across Inria, Université Grenoble Alpes and INRAE.</p>
+
+## Principal investigators
+
+<div class="people-grid">
+<div class="person-card"><h3>Vincent Acary</h3><p>Principal investigator · Research Director</p><p>Inria Grenoble · <a href="https://team.inria.fr/tripop/">TRIPOP</a></p><p><a href="mailto:vincent.acary@inria.fr">vincent.acary@inria.fr</a></p></div>
+<div class="person-card"><h3>Filippo Masi</h3><p>Principal investigator · Research Scientist</p><p>Inria Grenoble · <a href="https://team.inria.fr/tripop/">TRIPOP</a></p><p><a href="mailto:filippo.masi@inria.fr">filippo.masi@inria.fr</a></p></div>
+</div>
+
+## Collaborating researchers
+
+<div class="people-grid">
+<div class="person-card"><h3>Michael Arbel</h3><p>Inria · THOTH team</p></div>
+<div class="person-card"><h3>Gioacchino Viggiani</h3><p>Université Grenoble Alpes · 3SR Geomechanics group</p></div>
+<div class="person-card"><h3>Franck Bourrier</h3><p>INRAE–IGE · ECRINS team</p></div>
+<div class="person-card"><h3>Thierry Faug</h3><p>INRAE–IGE · ECRINS team</p></div>
+</div>
+
+## Participating groups
+
+- **TRIPOP — Inria Grenoble:** modelling, simulation and control of nonsmooth dynamical systems.
+- **THOTH — Inria:** mathematical and computational expertise in machine learning.
+- **3SR — Université Grenoble Alpes:** experimental and theoretical geomechanics.
+- **ECRINS — INRAE / IGE:** granular and geophysical flows, with applications to natural hazards.
+
+The participating researchers and their roles are drawn from the official chair description and Inria's activity report. This page can be extended with PhD researchers, postdoctoral fellows and collaborators as their affiliations are confirmed.
+:::
+::::

@@ -1,0 +1,52 @@
+---
+title: "Research | AIM"
+title-block-style: none
+toc: false
+---
+
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _project_profile.qmd >}}
+:::
+
+::: {.academic-main}
+<p class="project-kicker">Scientific programme</p>
+
+# Research
+
+<p class="project-lead">From the mechanics of individual grains to predictive laws for complex assemblies: AIM investigates how information can be transferred reliably across scales.</p>
+
+## The scientific challenge
+
+Granular materials can switch between solid-like and fluid-like responses and exhibit discontinuous changes arising from frictional contacts and impacts. These nonsmooth phenomena coexist with strong scale separation. Conventional continuum models may struggle to represent the microscopic mechanisms responsible for macroscopic behaviour.
+
+AIM develops approaches in which physical insight and experimental evidence guide machine learning, rather than relying on purely black-box predictions.
+
+## Three complementary approaches
+
+### High-fidelity particle-scale simulations
+
+The project draws on numerical mechanics to explore the interactions and collective dynamics of grains. Discrete descriptions provide a detailed view of contact, motion and dissipation, generating insight and data for scale bridging.
+
+### In-operando experimental measurements
+
+Advanced experiments probe granular materials as they deform or flow. These observations provide an essential reference for identifying meaningful physical descriptors and assessing predictive models.
+
+### Learning constrained by physical principles
+
+Scientific machine learning is informed by statistical physics and non-equilibrium thermodynamics. The goal is to identify robust constitutive relationships and transferable coarse-scale descriptions while respecting physical constraints.
+
+## Research questions
+
+- Which particle-scale descriptors are most informative for predicting emergent granular behaviour?
+- How can experimental measurements and numerical simulations be combined without discarding their physical structure?
+- How can machine-learning models incorporate thermodynamic and mechanical constraints by construction?
+- How can models learned at small scales remain reliable at larger spatial and temporal scales?
+
+## Applications
+
+The scientific framework is motivated by both industrial granular flows and environmental hazards, including landslides and avalanches. The project brings together applied mathematics, mechanics, AI and geomechanics to develop more reliable modelling strategies.
+
+<div class="project-notice"><p><strong>Research goal.</strong> Demonstrate a robust and accurate proof of principle for predicting the fine- and large-scale behaviour of granular systems.</p></div>
+:::
+::::

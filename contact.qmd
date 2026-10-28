@@ -1,0 +1,50 @@
+---
+title: "Contact | AIM"
+title-block-style: none
+toc: false
+---
+
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _project_profile.qmd >}}
+:::
+
+::: {.academic-main}
+<p class="project-kicker">Get in touch</p>
+
+# Contact
+
+<p class="project-lead">For research collaborations, academic enquiries and information about the AIM chair, contact the principal investigators.</p>
+
+## Scientific coordination
+
+**Vincent Acary**  
+Research Director · Inria Grenoble, TRIPOP  
+<a href="mailto:vincent.acary@inria.fr">vincent.acary@inria.fr</a>
+
+**Filippo Masi**  
+Research Scientist · Inria Grenoble, TRIPOP  
+<a href="mailto:filippo.masi@inria.fr">filippo.masi@inria.fr</a>
+
+## Host institutions
+
+**Inria Centre at Université Grenoble Alpes**  
+Grenoble area, France  
+<a href="https://www.inria.fr/en/inria-center-universite-grenoble-alpes">Institutional website ↗</a>
+
+**Université Grenoble Alpes**  
+Grenoble, France  
+<a href="https://www.univ-grenoble-alpes.fr/">Institutional website ↗</a>
+
+## Official resources
+
+- [AIM project website at Inria](https://project.inria.fr/aimechanics/)
+- [AIM chair profile at MIAI Cluster](https://miai-cluster.univ-grenoble-alpes.fr/en/projects/chaires/aim-ai-and-mechanics-for-scale-bridging-in-complex-materials--1834351.kjsp)
+- [Inria TRIPOP research team](https://team.inria.fr/tripop/)
+- [TRIPOP 2025 activity report](https://radar.inria.fr/report/2025/tripop/index.html)
+
+## Funding acknowledgement
+
+AIM is funded by the MIAI Cluster and ANR through the France 2030 programme (grant ANR-23-IACL-0006), June 2025 – September 2029.
+:::
+::::

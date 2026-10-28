@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - images/**
+
+lang: en
+
+website:
+  title: "AIM | Artificial Intelligence and Mechanics"
+  description: "MIAI Cluster chair on Artificial Intelligence and Mechanics for scale-bridging in complex materials"
+  # Update site-url and repo-url when your GitHub repository is created.
+  # site-url: "https://filippo-masi.github.io/aim/"
+  # repo-url: "https://github.com/filippo-masi/aim"
+  favicon: images/favicon.svg
+  page-navigation: false
+  search: false
+  navbar:
+    title: "AIM"
+    background: "#ffffff"
+    foreground: "#494e52"
+    pinned: false
+    collapse-below: lg
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Activities"
+        href: activities.qmd
+      - text: "Media"
+        href: media.qmd
+      - text: "Join us"
+        href: join-us.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    center: "© 2026 AIM Research Chair. Powered by Quarto."
+    border: false
+    background: "#f2f3f3"
+
+format:
+  html:
+    theme:
+      - default
+      - assets/css/academic-pages.scss
+    toc: false
+    page-layout: full
+    title-block-style: none
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-after-body: includes/profile-script.html

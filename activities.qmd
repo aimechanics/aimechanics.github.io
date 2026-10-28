@@ -1,0 +1,45 @@
+---
+title: "Activities | AIM"
+title-block-style: none
+toc: false
+---
+
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _project_profile.qmd >}}
+:::
+
+::: {.academic-main}
+<p class="project-kicker">Beyond the research programme</p>
+
+# Activities & open science
+
+<p class="project-lead">AIM is designed to connect methodological research, reproducible scientific software and interdisciplinary education.</p>
+
+## Scientific software
+
+The chair aims to support an innovation consortium dedicated to open-source software. Reproducibility and reuse are central to the goal of developing physically grounded computational tools that can be evaluated across numerical and experimental settings.
+
+Related existing open-source work includes the <a href="https://github.com/filippo-masi/NICE">NICE repository</a>, <a href="https://github.com/filippo-masi/TANN-multiscale">TANN-multiscale</a> and <a href="https://nonsmooth.gricad-pages.univ-grenoble-alpes.fr/siconos/">Siconos</a>. These links provide background tools and are not presented as new AIM deliverables.
+
+## Training & interdisciplinary exchange
+
+AIM plans an interdisciplinary training programme at the intersection of artificial intelligence and mechanics, bringing together perspectives from machine learning, physical modelling, experiments and numerical simulation.
+
+## Collaboration & dissemination
+
+The collaboration spans the TRIPOP and THOTH Inria teams, the 3SR geomechanics group at Université Grenoble Alpes, and the ECRINS group at INRAE–IGE. Publications, workshops and publicly available resources can be added here as project outputs become available.
+
+## Videos & presentation materials
+
+The [AIM media page](media.qmd) includes a recorded chair presentation from MIAI Days 2025 and the official AIM visual, with its partner logos preserved.
+
+## Project milestones
+
+- **June 2025:** funded chair period begins.
+- **2025–2029:** research, training and open-science activities develop over the funded period.
+- **September 2029:** scheduled end of the funded chair period.
+
+<div class="project-notice"><p>This page lists the project's stated aims and time frame. It does not imply that a particular software release, workshop or event has already taken place.</p></div>
+:::
+::::

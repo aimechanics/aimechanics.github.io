@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-labelledby="title desc">
+  <title id="title">AIM project monogram</title><desc id="desc">Minimalist AIM wordmark over connected particles, in blue-gray on a light background.</desc>
+  <rect width="500" height="500" fill="#eef4f6"/>
+  <path d="M48 60 H452" stroke="#d1dfe5" stroke-width="2"/>
+  <g stroke="#8cb4c3" stroke-width="2" fill="none" opacity=".85">
+    <path d="M70 337 L146 315 L220 355 L286 308 L365 336 L440 297 M146 315 L154 403 L235 423 L286 308 L363 397 L440 297 M70 337 L82 421 L154 403"/>
+  </g>
+  <g fill="#176b87"><circle cx="70" cy="337" r="9"/><circle cx="146" cy="315" r="12"/><circle cx="220" cy="355" r="8"/><circle cx="286" cy="308" r="12"/><circle cx="365" cy="336" r="9"/><circle cx="440" cy="297" r="8"/><circle cx="82" cy="421" r="6"/><circle cx="154" cy="403" r="9"/><circle cx="235" cy="423" r="7"/><circle cx="363" cy="397" r="10"/></g>
+  <text x="48" y="249" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="166" letter-spacing="-10" fill="#143f53">AIM</text>
+  <text x="51" y="284" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="4.6" fill="#566b77">AI + MECHANICS</text>
+</svg>

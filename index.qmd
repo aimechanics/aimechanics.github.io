@@ -1,0 +1,52 @@
+---
+title: "Overview | AIM"
+title-block-style: none
+toc: false
+---
+
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _project_profile.qmd >}}
+:::
+
+::: {.academic-main}
+<p class="project-kicker">MIAI Cluster · Artificial Intelligence Chair</p>
+
+# AIM — Artificial Intelligence and Mechanics
+
+<p class="project-lead">Artificial Intelligence and Mechanics for scale-bridging in complex materials: combining mechanics, applied mathematics, and machine learning to understand and predict granular materials across scales.</p>
+
+<div class="project-meta"><span>2025–2029</span><span>Inria · Université Grenoble Alpes</span><span>MIAI Cluster / France 2030</span></div>
+
+## About the project
+
+Granular materials—assemblies of interacting grains—are central to industrial processes and environmental phenomena, from powder handling to landslides and avalanches. Their nonlinear, nonsmooth and multiscale behaviour remains difficult to model reliably, especially when predictions must connect individual particles to the behaviour of a large-scale system.
+
+**AIM** addresses this challenge by bringing together expertise in mechanics, scientific machine learning, numerical simulation and experiments. The research aims to develop physics-grounded data-driven methods for accurate predictions of granular systems at both fine and macroscopic scales.
+
+## Research approach
+
+<div class="research-pillars">
+<div class="pillar"><div class="pillar-number">01 / SIMULATION</div><h3>Particle-scale mechanics</h3><p>High-fidelity simulations capture contact, friction, impacts and the collective dynamics of granular assemblies.</p></div>
+<div class="pillar"><div class="pillar-number">02 / EXPERIMENTS</div><h3>In-operando observation</h3><p>Advanced experimental measurements connect observable behaviour to hidden physical mechanisms.</p></div>
+<div class="pillar"><div class="pillar-number">03 / LEARNING</div><h3>Physics-constrained AI</h3><p>Learning methods incorporate statistical physics and non-equilibrium thermodynamics to bridge scales.</p></div>
+</div>
+
+Read more about the [research programme](research.qmd) and meet the [project team](team.qmd).
+
+## Expected impact
+
+AIM seeks proof-of-principle multiscale prediction methods for complex granular materials. Beyond scientific advances, the chair aims to foster open-source software collaboration and interdisciplinary training at the interface of AI and mechanics.
+
+## Institutions and support
+
+<figure class="project-figure official-figure">
+<a href="https://miai-cluster.univ-grenoble-alpes.fr/en/projects/chaires/aim-ai-and-mechanics-for-scale-bridging-in-complex-materials--1834351.kjsp?RH=1781609361883" target="_blank" rel="noopener noreferrer"><img src="https://miai-cluster.univ-grenoble-alpes.fr/medias/photo/aim_1755785671736-png?ID_FICHE=1566303" alt="Official AIM chair presentation visual with participating-institution logos and an image of a granular mountain slope" loading="lazy" /></a>
+<figcaption>Official AIM chair presentation and partner identities. Source: <a href="https://miai-cluster.univ-grenoble-alpes.fr/en/projects/chaires/aim-ai-and-mechanics-for-scale-bridging-in-complex-materials--1834351.kjsp?RH=1781609361883" target="_blank" rel="noopener noreferrer">MIAI Cluster / Université Grenoble Alpes</a>. Displayed without modification (CC BY-NC-ND 4.0).</figcaption>
+</figure>
+
+The AIM chair is funded by the **MIAI Cluster and the French National Research Agency (ANR)** through the **France 2030 programme**, under grant **ANR-23-IACL-0006**, for the period **June 2025 to September 2029**.
+
+<div class="action-links"><a href="research.qmd">Explore research →</a><a href="media.qmd">Videos &amp; project visuals →</a><a href="publications.qmd">Selected publications →</a></div>
+:::
+::::
